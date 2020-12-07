@@ -2,7 +2,7 @@
 title: Test Content
 author: TaeWarm
 date: 2020-12-03 14:01:00
-categories: [Blogging,Tutorial]
+categories: [Tutorial,Test]
 tags: [writing]
 ---
 # 게시물 만들때
