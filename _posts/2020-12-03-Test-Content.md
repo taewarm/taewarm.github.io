@@ -9,7 +9,9 @@ tags: [writing]
 
 ## Writing a New Post 게시물 보면은 영어 대충해석해서 만들면됨
 
-'''
+<pre>
+<code>
 var express = require('express');
 var app = express();
-'''
+</pre>
+</code>
