@@ -8,3 +8,8 @@ tags: [writing]
 # 게시물 만들때
 
 ## Writing a New Post 게시물 보면은 영어 대충해석해서 만들면됨
+
+'''
+var express = require('express');
+var app = express();
+'''
