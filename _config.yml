@@ -1,4 +1,4 @@
-title: Taewarm!
+title: 안드로이드 이력서
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: 김태원 # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: paduck_profile.jpeg # add your photo
 about-author: 안드로이드개발자 김태원
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
